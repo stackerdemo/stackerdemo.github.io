@@ -1,0 +1,20 @@
+{
+  "name": "stackerdemo.github.io",
+  "version": "1.0.0",
+  "description": "homepage. This is some sample text.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stackerdemo/stackerdemo.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stackerdemo/stackerdemo.github.io/issues"
+  },
+  "homepage": "https://github.com/stackerdemo/stackerdemo.github.io#readme"
+}
